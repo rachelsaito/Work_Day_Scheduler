@@ -8,6 +8,4 @@ This is the link to the live site: https://rachelsaito.github.io/Work_Day_Schedu
 ## Screenshot
 This is the screenshot of the live site: 
 
-
-
-https://courses.bootcampspot.com/courses/1040/files/1220891/preview
+![image](https://user-images.githubusercontent.com/92135931/151717875-9aa062f3-6e73-4270-9531-456055780d10.png)
